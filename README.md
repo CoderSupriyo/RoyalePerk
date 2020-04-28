@@ -1,2 +1,2 @@
-# Multiverse
-A bot with everything
+# RoyalePerk
+A CR BOT
